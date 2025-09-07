@@ -28,3 +28,5 @@ Global Statistics: The project provides an overview of the total number of cases
 
 📊 Visualizations
 The Tableau workbook (Covid19_Data_Tableau.twb) contains interactive dashboards and charts that visualize the findings from the MySQL analysis. These visualizations allow for an intuitive exploration of the data, highlighting geographical trends and country-specific impacts of the pandemic.
+
+<img width="1916" height="1018" alt="1" src="https://github.com/user-attachments/assets/810512ce-5a89-427e-be8c-8b331cdc5a6b" />
